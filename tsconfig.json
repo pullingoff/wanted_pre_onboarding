@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "target": "ES5",
+        "module": "ES6",
+        // "strict": true,
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "allowSyntheticDefaultImports": true
+    },
+    "include": [
+        "src/components/*.ts",
+        "src/components/*.tsx"
+    ]
+}
